@@ -148,6 +148,14 @@ Effective protection depends on secure network design, strong access controls, r
 
 Advanced Digital Forensics strengthens this approach by helping investigators trace attacks, identify compromised systems, and maintain the integrity of digital evidence. As 5G adoption grows, combining cybersecurity practices with forensic readiness will be essential for developing secure and trustworthy communication networks.
 
+🎥 My Presentation Video
+
+Topic: 5G Security Challenges and Solutions
+
+▶️ [Watch My Presentation](https://youtu.be/DdFUX84VcJ8)
+
+https://youtu.be/DdFUX84VcJ8
+
 ## 📚 References
 
 Explore the following official resources for additional technical information:
